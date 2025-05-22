@@ -30,3 +30,12 @@ public class SquareBase : ISquare
         return $"Square({X}, {Y})";
     }
 }
+<<<<<<< HEAD
+=======
+
+public enum SquareColor
+{
+    White,
+    Black
+}
+>>>>>>> cbaeca49b8d92f9e7d97fb027177f6bb6ad8c69f
